@@ -1,5 +1,11 @@
 Отображение всех веток 
 
-``sh
+``sh 
 git branch
+```
+
+Перемещение по веткам 
+
+```sh
+git checkout <branch_name>
 ```
