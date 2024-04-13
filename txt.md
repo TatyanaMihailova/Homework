@@ -4,7 +4,7 @@
 git checkout <branch_name>
 ```
 
-Отображение всех веток 
+Создание новой ветки 
 
 ```sh
 git branch <имя ветки>
