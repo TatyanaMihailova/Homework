@@ -10,3 +10,13 @@ git checkout <branch_name>
 git branch <имя ветки>
 ```
 
+Удаление ветки 
+
+```sh
+git branch -d <имя ветки>
+```
+Отображение изменений в ветках
+
+```sh
+git log --oneline --graph
+```
